@@ -47,7 +47,7 @@ h1.main {
   left: 50.1%;
 }
 .inside {
-  background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
+  background: linear-gradient(to right, #ffd1dc, #e4a0b7 30%);
   line-height: 2;
   padding: 0 20px;
   text-align: center;
@@ -75,7 +75,7 @@ h1.main {
   transform: rotateX(0deg);
 }
 .front {
-  background-color: #ffffff;
+  background-color: #ffd1dc;
 }
 .back {
   transform: rotateY(180deg);
