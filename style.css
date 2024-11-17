@@ -79,7 +79,7 @@ h1.main {
 }
 .back {
   transform: rotateY(180deg);
-  background: linear-gradient(to right, #ffd1dc, #e4a0b7 30%);
+  background: linear-gradient(to left, #ffd1dc, #e4a0b7 30%);
 }
 .cake {
   width: 100%;
