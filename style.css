@@ -47,7 +47,7 @@ h1.main {
   left: 50.1%;
 }
 .inside {
-  background-color: #ffd1dc;
+  background: linear-gradient(to right, #ecbdc4, #f5dce0 30%);
   line-height: 2;
   padding: 0 20px;
   text-align: center;
@@ -75,11 +75,11 @@ h1.main {
   transform: rotateX(0deg);
 }
 .front {
-  background-color: #ffd1dc;
+  background-color: #e4a0b7;
 }
 .back {
   transform: rotateY(180deg);
-  background-color: #ffd1dc;
+  background: linear-gradient(to left, #ecbdc4, #f5dce0 30%);
 }
 .cake {
   width: 100%;
